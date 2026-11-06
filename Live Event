@@ -177,6 +177,56 @@
     "team2": "West Indies",
     "updatedAt": 1793936568687
   },
+  "2333": {
+    "alwaysLive": "no",
+    "buttons": [
+      {
+        "name": "willow - aq",
+        "url": "https:\/\/otte.live.fly.ww.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/1vinczlx3q\/out\/v1\/a69e7ace1a7649418dbd689bf6eba8d7\/cenc.mpd",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "clearkey",
+        "drmLicenseUrl": "cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf"
+      },
+      {
+        "name": "willow - alt",
+        "url": "https:\/\/otte.cache.aiv-cdn.net\/iad-nitro\/live\/clients\/dash\/enc\/1vinczlx3q\/out\/v1\/a69e7ace1a7649418dbd689bf6eba8d7\/cenc.mpd",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "clearkey",
+        "drmLicenseUrl": "cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf"
+      }
+    ],
+    "hotMatch": "no",
+    "id": "2333",
+    "league": "Cricket | AFG vs ZIM - 1st Test, Day 2",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187575\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187745\/image",
+    "matchDate": "06\/11\/2026",
+    "matchFormat": "Test",
+    "matchTime": "12:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Afghanistan",
+    "team2": "Zimbabwe",
+    "updatedAt": 1793945801954
+  },
   "2334": {
     "buttons": [],
     "id": "2334",
@@ -3367,8 +3417,5 @@
     "updatedAt": 1793859322588,
     "hotMatch": "no",
     "matchFormat": ""
-  },
-  "_blocked": [
-    "2333"
-  ]
+  }
 }
