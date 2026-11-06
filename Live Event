@@ -11,7 +11,7 @@
     "sportCategory": "Football",
     "team1": "Maldives",
     "team2": "Pakistan",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2259": {
     "buttons": [],
@@ -25,7 +25,7 @@
     "sportCategory": "Football",
     "team1": "Sri Lanka",
     "team2": "Bhutan",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2260": {
     "buttons": [],
@@ -39,7 +39,7 @@
     "sportCategory": "Football",
     "team1": "India",
     "team2": "Maldives",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2261": {
     "buttons": [],
@@ -53,10 +53,59 @@
     "sportCategory": "Football",
     "team1": "Bangladesh",
     "team2": "Sri Lanka",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2324": {
-    "buttons": [],
+    "buttons": [
+      {
+        "name": "BEIN3 SPORTS - aq",
+        "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/q4u5nwaogz\/out\/v1\/18de6d3e65934f3a8de4358e69eab86c\/cenc.mpd?|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "hd quality",
+        "url": "https:\/\/live2.jorvakstreamcache.com\/live\/channel11.flv",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "low quality",
+        "url": "http:\/\/193.47.62.44\/hls\/RIIIAAQQA.m3u8",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "http:\/\/www.fawanews.sc\/",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      }
+    ],
     "id": "2324",
     "league": "Football | Bundesliga 2",
     "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png\/v1\/Competitions\/light\/26",
@@ -67,10 +116,61 @@
     "sportCategory": "Football",
     "team1": "Braunschweig",
     "team2": "Energie Cottbus",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "alwaysLive": "no"
   },
   "2325": {
-    "buttons": [],
+    "buttons": [
+      {
+        "name": "BeIN2 SPORTS - aq",
+        "url": "https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/8m8cd46i1t\/out\/v1\/83985c68e4174e90a58a1f2c024be4c9\/cenc.mpd?|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "hd quality",
+        "url": "https:\/\/live2.jorvakstreamcache.com\/live\/channel4.flv",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "low quality",
+        "url": "http:\/\/193.47.62.44\/hls\/RIIIAAQQQQQA.m3u8",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "http:\/\/www.fawanews.sc\/",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      }
+    ],
     "id": "2325",
     "league": "Football | Bundesliga 2",
     "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png\/v1\/Competitions\/light\/26",
@@ -81,21 +181,9 @@
     "sportCategory": "Football",
     "team1": "Dresden",
     "team2": "Greuther Fürth",
-    "updatedAt": 1793859322588
-  },
-  "2328": {
-    "buttons": [],
-    "id": "2328",
-    "league": "Football | Saudi League",
-    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png\/v9\/Competitions\/light\/649",
-    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/34315\/image",
-    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/530631\/image",
-    "matchDate": "06\/11\/2026",
-    "matchTime": "23:30",
-    "sportCategory": "Football",
-    "team1": "Al Ittihad",
-    "team2": "NEOM SC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "alwaysLive": "no"
   },
   "2331": {
     "buttons": [
@@ -190,7 +278,7 @@
     "sportCategory": "Football",
     "team1": "Gaziantep FK",
     "team2": "Kasimpasa",
-    "updatedAt": 1793984952929,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "alwaysLive": "no"
   },
@@ -258,7 +346,7 @@
     "sportCategory": "Cricket",
     "team1": "Bangladesh",
     "team2": "West Indies",
-    "updatedAt": 1793962449069
+    "updatedAt": 1793988883884
   },
   "2335": {
     "buttons": [],
@@ -272,7 +360,7 @@
     "sportCategory": "Football",
     "team1": "Vitoria",
     "team2": "Fluminense",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2336": {
     "buttons": [],
@@ -286,7 +374,7 @@
     "sportCategory": "Football",
     "team1": "Everton",
     "team2": "Coventry",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2337": {
     "buttons": [],
@@ -300,7 +388,7 @@
     "sportCategory": "Football",
     "team1": "Leeds",
     "team2": "Tottenham",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2338": {
     "buttons": [],
@@ -314,7 +402,7 @@
     "sportCategory": "Football",
     "team1": "Fulham",
     "team2": "Newcastle Utd",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2339": {
     "buttons": [],
@@ -328,7 +416,7 @@
     "sportCategory": "Football",
     "team1": "Arsenal",
     "team2": "Hull City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2340": {
     "buttons": [],
@@ -342,7 +430,7 @@
     "sportCategory": "Football",
     "team1": "Forest",
     "team2": "Man City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2341": {
     "buttons": [],
@@ -356,7 +444,7 @@
     "sportCategory": "Football",
     "team1": "Bristol Rovers",
     "team2": "Cambridge",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2342": {
     "buttons": [],
@@ -370,7 +458,7 @@
     "sportCategory": "Football",
     "team1": "Oxford City",
     "team2": "Leicester City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2343": {
     "buttons": [],
@@ -384,7 +472,7 @@
     "sportCategory": "Football",
     "team1": "Dover Athletic",
     "team2": "Wealdstone",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2344": {
     "buttons": [],
@@ -398,7 +486,7 @@
     "sportCategory": "Football",
     "team1": "Huddersfield",
     "team2": "Exeter City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2345": {
     "buttons": [],
@@ -412,7 +500,7 @@
     "sportCategory": "Football",
     "team1": "Fleetwood Town",
     "team2": "Rochdale",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2346": {
     "buttons": [],
@@ -426,7 +514,7 @@
     "sportCategory": "Football",
     "team1": "Bradford",
     "team2": "Marine",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2347": {
     "buttons": [],
@@ -440,7 +528,7 @@
     "sportCategory": "Football",
     "team1": "Bromley",
     "team2": "Rotherham",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2348": {
     "buttons": [],
@@ -454,7 +542,7 @@
     "sportCategory": "Football",
     "team1": "Barnet",
     "team2": "Tranmere",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2349": {
     "buttons": [],
@@ -468,7 +556,7 @@
     "sportCategory": "Football",
     "team1": "Burton",
     "team2": "Rushden & D.",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2350": {
     "buttons": [],
@@ -482,7 +570,7 @@
     "sportCategory": "Football",
     "team1": "Oxford Utd",
     "team2": "Stevenage",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2351": {
     "buttons": [],
@@ -496,7 +584,7 @@
     "sportCategory": "Football",
     "team1": "Crewe",
     "team2": "AFC Wimbledon",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2352": {
     "buttons": [],
@@ -510,7 +598,7 @@
     "sportCategory": "Football",
     "team1": "Newport County",
     "team2": "Walsall",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2353": {
     "buttons": [],
@@ -524,7 +612,7 @@
     "sportCategory": "Football",
     "team1": "MK Dons",
     "team2": "Swindon Town",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2354": {
     "buttons": [],
@@ -538,7 +626,7 @@
     "sportCategory": "Football",
     "team1": "Guiseley AFC",
     "team2": "Sutton United",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2355": {
     "buttons": [],
@@ -552,7 +640,7 @@
     "sportCategory": "Football",
     "team1": "Hornchurch FC",
     "team2": "Blackpool",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2356": {
     "buttons": [],
@@ -566,7 +654,7 @@
     "sportCategory": "Football",
     "team1": "Accrington",
     "team2": "Wycombe",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2357": {
     "buttons": [],
@@ -580,7 +668,7 @@
     "sportCategory": "Football",
     "team1": "Leyton Orient",
     "team2": "Harborough Town",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2358": {
     "buttons": [],
@@ -594,7 +682,7 @@
     "sportCategory": "Football",
     "team1": "Kidderminster",
     "team2": "Doncaster",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2359": {
     "buttons": [],
@@ -608,7 +696,7 @@
     "sportCategory": "Football",
     "team1": "Eastleigh",
     "team2": "Shrewsbury",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2360": {
     "buttons": [],
@@ -622,7 +710,7 @@
     "sportCategory": "Football",
     "team1": "Salisbury FC",
     "team2": "Sholing",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2361": {
     "buttons": [],
@@ -636,7 +724,7 @@
     "sportCategory": "Football",
     "team1": "Carlisle Utd",
     "team2": "Salford City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2362": {
     "buttons": [],
@@ -650,7 +738,7 @@
     "sportCategory": "Football",
     "team1": "Cheltenham",
     "team2": "Halifax",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2363": {
     "buttons": [],
@@ -664,7 +752,7 @@
     "sportCategory": "Football",
     "team1": "Boreham Wood",
     "team2": "Wigan",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2364": {
     "buttons": [],
@@ -678,7 +766,7 @@
     "sportCategory": "Football",
     "team1": "York",
     "team2": "Northampton",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2365": {
     "buttons": [],
@@ -692,7 +780,7 @@
     "sportCategory": "Football",
     "team1": "Port Vale",
     "team2": "Scunthorpe",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2366": {
     "buttons": [],
@@ -706,7 +794,7 @@
     "sportCategory": "Football",
     "team1": "Derby",
     "team2": "Bolton",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2367": {
     "buttons": [],
@@ -720,7 +808,7 @@
     "sportCategory": "Football",
     "team1": "Wrexham",
     "team2": "Wolves",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2368": {
     "buttons": [],
@@ -734,7 +822,7 @@
     "sportCategory": "Football",
     "team1": "Portsmouth",
     "team2": "Stoke City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2369": {
     "buttons": [],
@@ -748,7 +836,7 @@
     "sportCategory": "Football",
     "team1": "Bristol City",
     "team2": "Norwich",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2370": {
     "buttons": [],
@@ -762,7 +850,7 @@
     "sportCategory": "Football",
     "team1": "West Brom",
     "team2": "Millwall",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2371": {
     "buttons": [],
@@ -776,7 +864,7 @@
     "sportCategory": "Football",
     "team1": "Watford",
     "team2": "Middlesbrough",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2372": {
     "buttons": [],
@@ -790,7 +878,7 @@
     "sportCategory": "Football",
     "team1": "QPR",
     "team2": "Lincoln",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2373": {
     "buttons": [],
@@ -804,7 +892,7 @@
     "sportCategory": "Football",
     "team1": "Preston",
     "team2": "Southampton",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2374": {
     "buttons": [],
@@ -818,7 +906,7 @@
     "sportCategory": "Football",
     "team1": "Charlton",
     "team2": "Sheffield Utd",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2375": {
     "buttons": [],
@@ -832,7 +920,7 @@
     "sportCategory": "Football",
     "team1": "Cardiff",
     "team2": "Burnley",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2376": {
     "buttons": [],
@@ -846,7 +934,7 @@
     "sportCategory": "Football",
     "team1": "Blackburn",
     "team2": "West Ham",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2377": {
     "buttons": [],
@@ -860,7 +948,7 @@
     "sportCategory": "Football",
     "team1": "Birmingham",
     "team2": "Swansea",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2378": {
     "buttons": [],
@@ -874,7 +962,7 @@
     "sportCategory": "Football",
     "team1": "Toulouse",
     "team2": "Strasbourg",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2379": {
     "buttons": [],
@@ -888,7 +976,7 @@
     "sportCategory": "Football",
     "team1": "Auxerre",
     "team2": "Paris FC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2380": {
     "buttons": [],
@@ -902,7 +990,7 @@
     "sportCategory": "Football",
     "team1": "Hamburger SV",
     "team2": "Gladbach",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2381": {
     "buttons": [],
@@ -916,7 +1004,7 @@
     "sportCategory": "Football",
     "team1": "SC Paderborn",
     "team2": "Eintracht",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2382": {
     "buttons": [],
@@ -930,7 +1018,7 @@
     "sportCategory": "Football",
     "team1": "Mainz",
     "team2": "Bayern",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2383": {
     "buttons": [],
@@ -944,7 +1032,7 @@
     "sportCategory": "Football",
     "team1": "RB Leipzig",
     "team2": "Augsburg",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2384": {
     "buttons": [],
@@ -958,7 +1046,7 @@
     "sportCategory": "Football",
     "team1": "Dortmund",
     "team2": "Elversberg",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2385": {
     "buttons": [],
@@ -972,7 +1060,7 @@
     "sportCategory": "Football",
     "team1": "Stuttgart",
     "team2": "Werder Bremen",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2386": {
     "buttons": [],
@@ -986,7 +1074,7 @@
     "sportCategory": "Football",
     "team1": "Osnabrück",
     "team2": "Kaiserslautern",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2387": {
     "buttons": [],
@@ -1000,7 +1088,7 @@
     "sportCategory": "Football",
     "team1": "Holstein Kiel",
     "team2": "Arminia",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2388": {
     "buttons": [],
@@ -1014,7 +1102,7 @@
     "sportCategory": "Football",
     "team1": "Nurnberg",
     "team2": "Darmstadt 98",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2389": {
     "buttons": [],
@@ -1028,7 +1116,7 @@
     "sportCategory": "Football",
     "team1": "Venezia",
     "team2": "Udinese",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2390": {
     "buttons": [],
@@ -1042,7 +1130,7 @@
     "sportCategory": "Football",
     "team1": "Torino",
     "team2": "Lecce",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2391": {
     "buttons": [],
@@ -1056,7 +1144,7 @@
     "sportCategory": "Football",
     "team1": "Cagliari",
     "team2": "Frosinone",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2392": {
     "buttons": [],
@@ -1070,7 +1158,7 @@
     "sportCategory": "Football",
     "team1": "Parma",
     "team2": "Bologna",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2393": {
     "buttons": [],
@@ -1084,7 +1172,7 @@
     "sportCategory": "Football",
     "team1": "Willem II",
     "team2": "PEC Zwolle",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2394": {
     "buttons": [],
@@ -1098,7 +1186,7 @@
     "sportCategory": "Football",
     "team1": "Sittard",
     "team2": "Telstar",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2395": {
     "buttons": [],
@@ -1112,7 +1200,7 @@
     "sportCategory": "Football",
     "team1": "ADO Den Haag",
     "team2": "Sparta",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2396": {
     "buttons": [],
@@ -1126,7 +1214,7 @@
     "sportCategory": "Football",
     "team1": "Famalicão",
     "team2": "Arouca",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2397": {
     "buttons": [],
@@ -1140,7 +1228,7 @@
     "sportCategory": "Football",
     "team1": "Nacional",
     "team2": "Viseu",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2398": {
     "buttons": [],
@@ -1154,7 +1242,7 @@
     "sportCategory": "Football",
     "team1": "Al Faysaly",
     "team2": "Diriyah",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2399": {
     "buttons": [],
@@ -1168,7 +1256,7 @@
     "sportCategory": "Football",
     "team1": "Al Ettifaq",
     "team2": "Al Hilal",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2400": {
     "buttons": [],
@@ -1182,7 +1270,7 @@
     "sportCategory": "Football",
     "team1": "Al Ahli",
     "team2": "Al Taawoun",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2401": {
     "buttons": [],
@@ -1196,7 +1284,7 @@
     "sportCategory": "Football",
     "team1": "Sevilla",
     "team2": "Alaves",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2402": {
     "buttons": [],
@@ -1210,7 +1298,7 @@
     "sportCategory": "Football",
     "team1": "Malaga",
     "team2": "Racing Santander",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2403": {
     "buttons": [],
@@ -1224,7 +1312,7 @@
     "sportCategory": "Football",
     "team1": "Espanyol",
     "team2": "Deportivo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2404": {
     "buttons": [],
@@ -1238,7 +1326,7 @@
     "sportCategory": "Football",
     "team1": "Osasuna",
     "team2": "Ath. Bilbao",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2406": {
     "buttons": [],
@@ -1252,7 +1340,7 @@
     "sportCategory": "Football",
     "team1": "Burgos",
     "team2": "Celta Vigo B",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2407": {
     "buttons": [],
@@ -1266,7 +1354,7 @@
     "sportCategory": "Football",
     "team1": "Cadiz",
     "team2": "Real Oviedo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2408": {
     "buttons": [],
@@ -1280,7 +1368,7 @@
     "sportCategory": "Football",
     "team1": "Cordoba",
     "team2": "AD Ceuta",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2409": {
     "buttons": [],
@@ -1294,7 +1382,7 @@
     "sportCategory": "Football",
     "team1": "Leganés",
     "team2": "Albacete",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2410": {
     "buttons": [],
@@ -1308,7 +1396,7 @@
     "sportCategory": "Football",
     "team1": "Eyupspor",
     "team2": "Kocaelispor",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2411": {
     "buttons": [],
@@ -1322,7 +1410,7 @@
     "sportCategory": "Football",
     "team1": "Samsunspor",
     "team2": "Konyaspor",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2412": {
     "buttons": [],
@@ -1336,7 +1424,7 @@
     "sportCategory": "Football",
     "team1": "Galatasaray",
     "team2": "Amed SK",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2413": {
     "buttons": [],
@@ -1350,7 +1438,7 @@
     "sportCategory": "Football",
     "team1": "Goztepe",
     "team2": "İstanbul Başakşehir",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2414": {
     "buttons": [],
@@ -1364,7 +1452,7 @@
     "sportCategory": "Cricket",
     "team1": "New Zealand",
     "team2": "India",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -1380,7 +1468,7 @@
     "sportCategory": "Cricket",
     "team1": "Melbourne Renegades Women",
     "team2": "Adelaide Strikers Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -1396,7 +1484,7 @@
     "sportCategory": "Cricket",
     "team1": "Brisbane Heat Women",
     "team2": "Hobart Hurricanes Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -1415,7 +1503,7 @@
     "sportCategory": "Cricket",
     "team1": "Afghanistan",
     "team2": "Zimbabwe",
-    "updatedAt": 1793908527610
+    "updatedAt": 1793988883884
   },
   "2419": {
     "buttons": [],
@@ -1429,7 +1517,7 @@
     "sportCategory": "Football",
     "team1": "Talleres",
     "team2": "Estudiantes",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2420": {
     "buttons": [],
@@ -1443,7 +1531,7 @@
     "sportCategory": "Football",
     "team1": "Gimnasia Mendoza",
     "team2": "Independiente Riv.",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2421": {
     "buttons": [],
@@ -1457,7 +1545,7 @@
     "sportCategory": "Football",
     "team1": "Rosario Central",
     "team2": "Estudiantes Río Cuarto",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2422": {
     "buttons": [],
@@ -1471,7 +1559,7 @@
     "sportCategory": "Football",
     "team1": "Argentinos Juniors",
     "team2": "Huracan",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2423": {
     "buttons": [],
@@ -1485,7 +1573,7 @@
     "sportCategory": "Football",
     "team1": "Boca Juniors",
     "team2": "Defensa Y Justicia",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2424": {
     "buttons": [],
@@ -1499,7 +1587,7 @@
     "sportCategory": "Football",
     "team1": "Instituto Cordoba",
     "team2": "Newell's",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2425": {
     "buttons": [],
@@ -1513,7 +1601,7 @@
     "sportCategory": "Football",
     "team1": "Atlético-MG",
     "team2": "Gremio",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2426": {
     "buttons": [],
@@ -1527,7 +1615,7 @@
     "sportCategory": "Football",
     "team1": "Sunderland",
     "team2": "Chelsea",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2427": {
     "buttons": [],
@@ -1541,7 +1629,7 @@
     "sportCategory": "Football",
     "team1": "Ipswich",
     "team2": "Bournemouth",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2428": {
     "buttons": [],
@@ -1555,7 +1643,7 @@
     "sportCategory": "Football",
     "team1": "Crystal Palace",
     "team2": "Liverpool",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2429": {
     "buttons": [],
@@ -1569,7 +1657,7 @@
     "sportCategory": "Football",
     "team1": "Brighton",
     "team2": "Brentford",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2430": {
     "buttons": [],
@@ -1583,7 +1671,7 @@
     "sportCategory": "Football",
     "team1": "Man Utd",
     "team2": "Aston Villa",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2431": {
     "buttons": [],
@@ -1597,7 +1685,7 @@
     "sportCategory": "Football",
     "team1": "Peterborough",
     "team2": "Reading",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2432": {
     "buttons": [],
@@ -1611,7 +1699,7 @@
     "sportCategory": "Football",
     "team1": "Wimborne Town",
     "team2": "Crawley Town",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2433": {
     "buttons": [],
@@ -1625,7 +1713,7 @@
     "sportCategory": "Football",
     "team1": "Oldham",
     "team2": "Sheffield Wed",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2434": {
     "buttons": [],
@@ -1639,7 +1727,7 @@
     "sportCategory": "Football",
     "team1": "PSG",
     "team2": "Troyes",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2435": {
     "buttons": [],
@@ -1653,7 +1741,7 @@
     "sportCategory": "Football",
     "team1": "Rennes",
     "team2": "Lille",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2436": {
     "buttons": [],
@@ -1667,7 +1755,7 @@
     "sportCategory": "Football",
     "team1": "Le Mans",
     "team2": "Monaco",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2437": {
     "buttons": [],
@@ -1681,7 +1769,7 @@
     "sportCategory": "Football",
     "team1": "Le Havre",
     "team2": "Lorient",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2438": {
     "buttons": [],
@@ -1695,7 +1783,7 @@
     "sportCategory": "Football",
     "team1": "Brest",
     "team2": "Lyon",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2439": {
     "buttons": [],
@@ -1709,7 +1797,7 @@
     "sportCategory": "Football",
     "team1": "Angers",
     "team2": "Nice",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2440": {
     "buttons": [],
@@ -1723,7 +1811,7 @@
     "sportCategory": "Football",
     "team1": "Köln",
     "team2": "Leverkusen",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2441": {
     "buttons": [],
@@ -1737,7 +1825,7 @@
     "sportCategory": "Football",
     "team1": "Freiburg",
     "team2": "Union Berlin",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2442": {
     "buttons": [],
@@ -1751,7 +1839,7 @@
     "sportCategory": "Football",
     "team1": "Hertha BSC",
     "team2": "Wolfsburg",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2443": {
     "buttons": [],
@@ -1765,7 +1853,7 @@
     "sportCategory": "Football",
     "team1": "Magdeburg",
     "team2": "Bochum",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2444": {
     "buttons": [],
@@ -1779,7 +1867,7 @@
     "sportCategory": "Football",
     "team1": "Karlsruher",
     "team2": "Heidenheim",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2445": {
     "buttons": [],
@@ -1793,7 +1881,7 @@
     "sportCategory": "Football",
     "team1": "Hannover",
     "team2": "St. Pauli",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2446": {
     "buttons": [],
@@ -1807,7 +1895,7 @@
     "sportCategory": "Football",
     "team1": "AS Roma",
     "team2": "Sassuolo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2447": {
     "buttons": [],
@@ -1821,7 +1909,7 @@
     "sportCategory": "Football",
     "team1": "Napoli",
     "team2": "Lazio",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2448": {
     "buttons": [],
@@ -1835,7 +1923,7 @@
     "sportCategory": "Football",
     "team1": "Monza",
     "team2": "Atalanta",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2449": {
     "buttons": [],
@@ -1849,7 +1937,7 @@
     "sportCategory": "Football",
     "team1": "Genoa",
     "team2": "AC Milan",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2450": {
     "buttons": [],
@@ -1863,7 +1951,7 @@
     "sportCategory": "Football",
     "team1": "Inter",
     "team2": "Como",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2451": {
     "buttons": [],
@@ -1877,7 +1965,7 @@
     "sportCategory": "Football",
     "team1": "Excelsior",
     "team2": "Go Ahead",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2452": {
     "buttons": [],
@@ -1891,7 +1979,7 @@
     "sportCategory": "Football",
     "team1": "Heerenveen",
     "team2": "Feyenoord",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2453": {
     "buttons": [],
@@ -1905,7 +1993,7 @@
     "sportCategory": "Football",
     "team1": "Twente",
     "team2": "Ajax",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2454": {
     "buttons": [],
@@ -1919,7 +2007,7 @@
     "sportCategory": "Football",
     "team1": "AZ Alkmaar",
     "team2": "Groningen",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2455": {
     "buttons": [],
@@ -1933,7 +2021,7 @@
     "sportCategory": "Football",
     "team1": "Cambuur",
     "team2": "PSV",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2456": {
     "buttons": [],
@@ -1947,7 +2035,7 @@
     "sportCategory": "Football",
     "team1": "Alverca",
     "team2": "Casa Pia",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2457": {
     "buttons": [],
@@ -1961,7 +2049,7 @@
     "sportCategory": "Football",
     "team1": "Sporting",
     "team2": "Moreirense",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2458": {
     "buttons": [],
@@ -1975,7 +2063,7 @@
     "sportCategory": "Football",
     "team1": "Estoril",
     "team2": "Maritimo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2459": {
     "buttons": [],
@@ -1989,7 +2077,7 @@
     "sportCategory": "Football",
     "team1": "Santa Clara",
     "team2": "Gil Vicente",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2460": {
     "buttons": [],
@@ -2003,7 +2091,7 @@
     "sportCategory": "Football",
     "team1": "Valencia",
     "team2": "Real Madrid",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2461": {
     "buttons": [],
@@ -2017,7 +2105,7 @@
     "sportCategory": "Football",
     "team1": "Elche",
     "team2": "Betis",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2462": {
     "buttons": [],
@@ -2031,7 +2119,7 @@
     "sportCategory": "Football",
     "team1": "Real Sociedad",
     "team2": "Rayo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2463": {
     "buttons": [],
@@ -2045,7 +2133,7 @@
     "sportCategory": "Football",
     "team1": "Villarreal",
     "team2": "Getafe",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2464": {
     "buttons": [],
@@ -2059,7 +2147,7 @@
     "sportCategory": "Football",
     "team1": "RC Celta",
     "team2": "Levante",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2465": {
     "buttons": [],
@@ -2073,7 +2161,7 @@
     "sportCategory": "Football",
     "team1": "Granada",
     "team2": "Tenerife",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2466": {
     "buttons": [],
@@ -2087,7 +2175,7 @@
     "sportCategory": "Football",
     "team1": "Andorra",
     "team2": "Mallorca",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2467": {
     "buttons": [],
@@ -2101,7 +2189,7 @@
     "sportCategory": "Football",
     "team1": "Girona",
     "team2": "Almeria",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2468": {
     "buttons": [],
@@ -2115,7 +2203,7 @@
     "sportCategory": "Football",
     "team1": "Las Palmas",
     "team2": "CD Eldense",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2469": {
     "buttons": [],
@@ -2129,7 +2217,7 @@
     "sportCategory": "Football",
     "team1": "Sporting Gijon",
     "team2": "Valladolid",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2470": {
     "buttons": [],
@@ -2143,7 +2231,7 @@
     "sportCategory": "Football",
     "team1": "Rizespor",
     "team2": "Erzurumspor FK",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2471": {
     "buttons": [],
@@ -2157,7 +2245,7 @@
     "sportCategory": "Football",
     "team1": "Corum FK",
     "team2": "Fenerbahce",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2472": {
     "buttons": [],
@@ -2171,7 +2259,7 @@
     "sportCategory": "Football",
     "team1": "Alanyaspor",
     "team2": "Trabzonspor",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2473": {
     "buttons": [],
@@ -2185,7 +2273,7 @@
     "sportCategory": "Football",
     "team1": "Philadelphia Union",
     "team2": "Toronto",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2474": {
     "buttons": [],
@@ -2199,7 +2287,7 @@
     "sportCategory": "Football",
     "team1": "Orlando City",
     "team2": "Revolution",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2475": {
     "buttons": [],
@@ -2213,7 +2301,7 @@
     "sportCategory": "Football",
     "team1": "New York Red Bulls",
     "team2": "Atlanta United",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2476": {
     "buttons": [],
@@ -2227,7 +2315,7 @@
     "sportCategory": "Football",
     "team1": "CF Montréal",
     "team2": "Whitecaps",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2477": {
     "buttons": [],
@@ -2241,7 +2329,7 @@
     "sportCategory": "Football",
     "team1": "Inter Miami",
     "team2": "Charlotte FC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2478": {
     "buttons": [],
@@ -2255,7 +2343,7 @@
     "sportCategory": "Football",
     "team1": "DC United",
     "team2": "New York City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2479": {
     "buttons": [],
@@ -2269,7 +2357,7 @@
     "sportCategory": "Football",
     "team1": "FC Cincinnati",
     "team2": "Nashville SC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2480": {
     "buttons": [],
@@ -2283,7 +2371,7 @@
     "sportCategory": "Football",
     "team1": "Chicago Fire",
     "team2": "Columbus Crew",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2481": {
     "buttons": [],
@@ -2297,7 +2385,7 @@
     "sportCategory": "Football",
     "team1": "San Diego",
     "team2": "Sporting KC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2482": {
     "buttons": [],
@@ -2311,7 +2399,7 @@
     "sportCategory": "Football",
     "team1": "Seattle Sounders",
     "team2": "Los Angeles FC",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2483": {
     "buttons": [],
@@ -2325,7 +2413,7 @@
     "sportCategory": "Football",
     "team1": "Real Salt Lake",
     "team2": "LA Galaxy",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2484": {
     "buttons": [],
@@ -2339,7 +2427,7 @@
     "sportCategory": "Football",
     "team1": "Houston Dynamo",
     "team2": "St. Louis City",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2485": {
     "buttons": [],
@@ -2353,7 +2441,7 @@
     "sportCategory": "Football",
     "team1": "Minnesota United",
     "team2": "San Jose",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2486": {
     "buttons": [],
@@ -2367,7 +2455,7 @@
     "sportCategory": "Football",
     "team1": "FC Dallas",
     "team2": "Colorado Rapids",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2487": {
     "buttons": [],
@@ -2381,7 +2469,7 @@
     "sportCategory": "Football",
     "team1": "Austin",
     "team2": "Portland",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2488": {
     "buttons": [],
@@ -2395,7 +2483,7 @@
     "sportCategory": "Cricket",
     "team1": "Sydney Sixers Women",
     "team2": "Sydney Thunder Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2411,7 +2499,7 @@
     "sportCategory": "Cricket",
     "team1": "Perth Scorchers Women",
     "team2": "Melbourne Stars Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2427,7 +2515,7 @@
     "sportCategory": "Cricket",
     "team1": "Bangladesh",
     "team2": "West Indies",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2446,7 +2534,7 @@
     "sportCategory": "Cricket",
     "team1": "Afghanistan",
     "team2": "Zimbabwe",
-    "updatedAt": 1793908548423
+    "updatedAt": 1793988883884
   },
   "2492": {
     "buttons": [],
@@ -2460,7 +2548,7 @@
     "sportCategory": "Football",
     "team1": "Central Córdoba",
     "team2": "Lanus",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2493": {
     "buttons": [],
@@ -2474,7 +2562,7 @@
     "sportCategory": "Football",
     "team1": "Vasco",
     "team2": "Palmeiras",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2494": {
     "buttons": [],
@@ -2488,7 +2576,7 @@
     "sportCategory": "Football",
     "team1": "Lens",
     "team2": "Marseille",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2495": {
     "buttons": [],
@@ -2502,7 +2590,7 @@
     "sportCategory": "Football",
     "team1": "Hoffenheim",
     "team2": "Schalke 04",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2496": {
     "buttons": [],
@@ -2516,7 +2604,7 @@
     "sportCategory": "Football",
     "team1": "Fiorentina",
     "team2": "Juventus",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2497": {
     "buttons": [],
@@ -2530,7 +2618,7 @@
     "sportCategory": "Football",
     "team1": "Utrecht",
     "team2": "N.E.C.",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2498": {
     "buttons": [],
@@ -2544,7 +2632,7 @@
     "sportCategory": "Football",
     "team1": "Guimarães",
     "team2": "Porto",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2499": {
     "buttons": [],
@@ -2558,7 +2646,7 @@
     "sportCategory": "Football",
     "team1": "Amadora",
     "team2": "Benfica",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2500": {
     "buttons": [],
@@ -2572,7 +2660,7 @@
     "sportCategory": "Football",
     "team1": "Rio Ave",
     "team2": "Braga",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2501": {
     "buttons": [],
@@ -2586,7 +2674,7 @@
     "sportCategory": "Football",
     "team1": "Atl. Madrid",
     "team2": "Barcelona",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2502": {
     "buttons": [],
@@ -2600,7 +2688,7 @@
     "sportCategory": "Football",
     "team1": "Besiktas",
     "team2": "Genclerbirligi",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2503": {
     "buttons": [],
@@ -2614,7 +2702,7 @@
     "sportCategory": "Cricket",
     "team1": "Bangladesh",
     "team2": "West Indies",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2630,7 +2718,7 @@
     "sportCategory": "Cricket",
     "team1": "Pakistan",
     "team2": "Sri Lanka",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2649,7 +2737,7 @@
     "sportCategory": "Cricket",
     "team1": "Afghanistan",
     "team2": "Zimbabwe",
-    "updatedAt": 1793908565381
+    "updatedAt": 1793988883884
   },
   "2506": {
     "buttons": [],
@@ -2663,7 +2751,7 @@
     "sportCategory": "Cricket",
     "team1": "Karnali Yaks",
     "team2": "Pokhara Avengers",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2679,7 +2767,7 @@
     "sportCategory": "Cricket",
     "team1": "Chitwan Rhinos",
     "team2": "Kathmandu Gorkhas",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2695,7 +2783,7 @@
     "sportCategory": "Football",
     "team1": "Club Aurora",
     "team2": "Universitario de Vinto",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2509": {
     "buttons": [],
@@ -2709,7 +2797,7 @@
     "sportCategory": "Football",
     "team1": "Junior FC",
     "team2": "Cucuta Deportivo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2510": {
     "buttons": [],
@@ -2723,7 +2811,7 @@
     "sportCategory": "Football",
     "team1": "Independiente Valle del Cauca",
     "team2": "Union Magdalena",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2511": {
     "buttons": [],
@@ -2737,7 +2825,7 @@
     "sportCategory": "Football",
     "team1": "Mushuc Runa",
     "team2": "Delfin",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2512": {
     "buttons": [],
@@ -2751,7 +2839,7 @@
     "sportCategory": "Football",
     "team1": "Tecnico Universitario",
     "team2": "Manta",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2513": {
     "buttons": [],
@@ -2765,7 +2853,7 @@
     "sportCategory": "Football",
     "team1": "Al Mokawloon Al Arab",
     "team2": "Egypt Telecom",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2514": {
     "buttons": [],
@@ -2779,7 +2867,7 @@
     "sportCategory": "Football",
     "team1": "Plymouth Parkway",
     "team2": "Berkhamsted",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2515": {
     "buttons": [],
@@ -2793,7 +2881,7 @@
     "sportCategory": "Football",
     "team1": "Real Madrid (W)",
     "team2": "Paris FC (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2516": {
     "buttons": [],
@@ -2807,7 +2895,7 @@
     "sportCategory": "Football",
     "team1": "Hacken (W)",
     "team2": "Chelsea (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2517": {
     "buttons": [],
@@ -2821,7 +2909,7 @@
     "sportCategory": "Football",
     "team1": "Sp. San Lorenzo",
     "team2": "Rubio Ñu",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2518": {
     "buttons": [],
@@ -2835,7 +2923,7 @@
     "sportCategory": "Football",
     "team1": "Sportivo Luqueño",
     "team2": "2 de Mayo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2519": {
     "buttons": [],
@@ -2849,7 +2937,7 @@
     "sportCategory": "Football",
     "team1": "Sabadell",
     "team2": "Real Sociedad B",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2520": {
     "buttons": [],
@@ -2863,7 +2951,7 @@
     "sportCategory": "Cricket",
     "team1": "New Zealand",
     "team2": "India",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2879,7 +2967,7 @@
     "sportCategory": "Cricket",
     "team1": "Pakistan",
     "team2": "Sri Lanka",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2895,7 +2983,7 @@
     "sportCategory": "Cricket",
     "team1": "Hobart Hurricanes Women",
     "team2": "Adelaide Strikers Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2911,7 +2999,7 @@
     "sportCategory": "Cricket",
     "team1": "Janakpur Bolts",
     "team2": "Sudur Paschim Royals",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -2927,7 +3015,7 @@
     "sportCategory": "Football",
     "team1": "Envigado FC",
     "team2": "Boca Juniors Cali",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2525": {
     "buttons": [],
@@ -2941,7 +3029,7 @@
     "sportCategory": "Football",
     "team1": "Internacional de Bogota",
     "team2": "América",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2526": {
     "buttons": [],
@@ -2955,7 +3043,7 @@
     "sportCategory": "Football",
     "team1": "Once Caldas",
     "team2": "Atletico Nacional",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2527": {
     "buttons": [],
@@ -2969,7 +3057,7 @@
     "sportCategory": "Football",
     "team1": "PSG (W)",
     "team2": "Bayern München (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2528": {
     "buttons": [],
@@ -2983,7 +3071,7 @@
     "sportCategory": "Football",
     "team1": "Inter Milan (W)",
     "team2": "Manchester City (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2529": {
     "buttons": [],
@@ -2997,7 +3085,7 @@
     "sportCategory": "Football",
     "team1": "Roma (W)",
     "team2": "Servette (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2530": {
     "buttons": [],
@@ -3011,7 +3099,7 @@
     "sportCategory": "Football",
     "team1": "Oud-Heverlee Leuven (W)",
     "team2": "Koge (W)",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2531": {
     "buttons": [],
@@ -3025,7 +3113,7 @@
     "sportCategory": "Football",
     "team1": "Vietnam",
     "team2": "Chinese Taipei",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2532": {
     "buttons": [],
@@ -3039,7 +3127,7 @@
     "sportCategory": "Football",
     "team1": "CD Badajoz",
     "team2": "CD Tenerife",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2533": {
     "buttons": [],
@@ -3053,7 +3141,7 @@
     "sportCategory": "Football",
     "team1": "Mijas Las Lagunas",
     "team2": "Real Jaén CF",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2534": {
     "buttons": [],
@@ -3067,7 +3155,7 @@
     "sportCategory": "Football",
     "team1": "Tavernes",
     "team2": "Valencia CF",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2535": {
     "buttons": [],
@@ -3081,7 +3169,7 @@
     "sportCategory": "Football",
     "team1": "Cacahuatique",
     "team2": "CD Luis Angel Firpo",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2536": {
     "buttons": [],
@@ -3095,7 +3183,7 @@
     "sportCategory": "Football",
     "team1": "Metapan",
     "team2": "Platense Municipal",
-    "updatedAt": 1793859322588
+    "updatedAt": 1793988883884
   },
   "2537": {
     "buttons": [],
@@ -3109,7 +3197,7 @@
     "sportCategory": "Cricket",
     "team1": "Pakistan",
     "team2": "Sri Lanka",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3125,7 +3213,7 @@
     "sportCategory": "Cricket",
     "team1": "Perth Scorchers Women",
     "team2": "Sydney Thunder Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3141,7 +3229,7 @@
     "sportCategory": "Cricket",
     "team1": "Afghanistan U19",
     "team2": "Malaysia U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3157,7 +3245,7 @@
     "sportCategory": "Cricket",
     "team1": "Sri Lanka U19",
     "team2": "Bangladesh U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3173,7 +3261,7 @@
     "sportCategory": "Cricket",
     "team1": "United Arab Emirates U19",
     "team2": "Nepal U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3189,7 +3277,7 @@
     "sportCategory": "Cricket",
     "team1": "India U19",
     "team2": "Pakistan U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3205,7 +3293,7 @@
     "sportCategory": "Cricket",
     "team1": "Bangladesh U19",
     "team2": "Malaysia U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3221,7 +3309,7 @@
     "sportCategory": "Cricket",
     "team1": "Sri Lanka U19",
     "team2": "Afghanistan U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3237,7 +3325,7 @@
     "sportCategory": "Cricket",
     "team1": "India U19",
     "team2": "United Arab Emirates U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3253,7 +3341,7 @@
     "sportCategory": "Cricket",
     "team1": "Pakistan U19",
     "team2": "Nepal U19",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3269,7 +3357,7 @@
     "sportCategory": "Cricket",
     "team1": "1st in Group A",
     "team2": "2nd in Group B",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3285,7 +3373,7 @@
     "sportCategory": "Cricket",
     "team1": "1st in Group B",
     "team2": "2nd in Group A",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
   },
@@ -3301,9 +3389,2169 @@
     "sportCategory": "Cricket",
     "team1": "Team 1 (TBC)",
     "team2": "Team 2 (TBC)",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793988883884,
     "hotMatch": "no",
     "matchFormat": ""
+  },
+  "2555": {
+    "buttons": [],
+    "id": "2555",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4764\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/23472\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Ghana",
+    "team2": "Somalia",
+    "updatedAt": 1793988883884
+  },
+  "2556": {
+    "buttons": [],
+    "id": "2556",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4826\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8041\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Guinea",
+    "team2": "Eritrea",
+    "updatedAt": 1793988883884
+  },
+  "2557": {
+    "buttons": [],
+    "id": "2557",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4823\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4737\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "DR Congo",
+    "team2": "Sierra Leone",
+    "updatedAt": 1793988883884
+  },
+  "2558": {
+    "buttons": [],
+    "id": "2558",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/8035\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/23478\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Madagascar",
+    "team2": "Guinea-Bissau",
+    "updatedAt": 1793988883884
+  },
+  "2559": {
+    "buttons": [],
+    "id": "2559",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4700\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4717\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Turkey",
+    "team2": "Belgium",
+    "updatedAt": 1793988883884
+  },
+  "2560": {
+    "buttons": [],
+    "id": "2560",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4740\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4482\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Armenia",
+    "team2": "Cyprus",
+    "updatedAt": 1793988883884
+  },
+  "2561": {
+    "buttons": [],
+    "id": "2561",
+    "league": "Football | UEFA Women's Champions League",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/696\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/3006\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2203\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "02:00",
+    "sportCategory": "Football",
+    "team1": "Benfica (W)",
+    "team2": "Austria Wien (W)",
+    "updatedAt": 1793988883884
+  },
+  "2562": {
+    "buttons": [],
+    "id": "2562",
+    "league": "Football | UEFA Women's Champions League",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/696\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2687\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/1649\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "02:00",
+    "sportCategory": "Football",
+    "team1": "Juventus (W)",
+    "team2": "Olympique Lyonnais (W)",
+    "updatedAt": 1793988883884
+  },
+  "2563": {
+    "buttons": [],
+    "id": "2563",
+    "league": "Football | UEFA Women's Champions League",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/696\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2817\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/42\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:45",
+    "sportCategory": "Football",
+    "team1": "Barcelona (W)",
+    "team2": "Arsenal (W)",
+    "updatedAt": 1793988883884
+  },
+  "2564": {
+    "buttons": [],
+    "id": "2564",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4784\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4828\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "12:00",
+    "sportCategory": "Football",
+    "team1": "New Zealand",
+    "team2": "India",
+    "updatedAt": 1793988883884
+  },
+  "2565": {
+    "buttons": [],
+    "id": "2565",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4723\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4694\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Uzbekistan",
+    "team2": "Russia",
+    "updatedAt": 1793988883884
+  },
+  "2566": {
+    "buttons": [],
+    "id": "2566",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4776\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/21822\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Lithuania",
+    "team2": "Suriname",
+    "updatedAt": 1793988883884
+  },
+  "2567": {
+    "buttons": [],
+    "id": "2567",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4483\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4733\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Malta",
+    "team2": "Eswatini",
+    "updatedAt": 1793988883884
+  },
+  "2568": {
+    "buttons": [],
+    "id": "2568",
+    "league": "Football | Copa del Rey",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/329\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/295639\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2848\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Puertollano",
+    "team2": "Albacete",
+    "updatedAt": 1793988883884
+  },
+  "2569": {
+    "buttons": [],
+    "id": "2569",
+    "league": "Cricket | PAK vs SL - 1st Test, Day 4",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187754\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187756\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "10:30 AM",
+    "sportCategory": "Cricket",
+    "team1": "Pakistan",
+    "team2": "Sri Lanka",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2570": {
+    "buttons": [],
+    "id": "2570",
+    "league": "Cricket | WBBL 2026 - 19th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274886\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274884\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "10:40 AM",
+    "sportCategory": "Cricket",
+    "team1": "Melbourne Stars Women",
+    "team2": "Brisbane Heat Women",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2571": {
+    "buttons": [],
+    "id": "2571",
+    "league": "Cricket | WBBL 2026 - 20th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274887\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274883\/image",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "2:10 PM",
+    "sportCategory": "Cricket",
+    "team1": "Melbourne Renegades Women",
+    "team2": "Sydney Sixers Women",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2572": {
+    "buttons": [],
+    "id": "2572",
+    "league": "Cricket | NPL 2026 - 22nd Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/PU.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PW.png",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "12:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Biratnagar Kings",
+    "team2": "Pokhara Avengers",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2573": {
+    "buttons": [],
+    "id": "2573",
+    "league": "Cricket | NPL 2026 - 23rd Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/ZW.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PS.png",
+    "matchDate": "12\/11\/2026",
+    "matchTime": "5:15 PM",
+    "sportCategory": "Cricket",
+    "team1": "Karnali Yaks",
+    "team2": "Lumbini Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2574": {
+    "buttons": [],
+    "id": "2574",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4768\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4762\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Ivory Coast",
+    "team2": "Gambia",
+    "updatedAt": 1793988883884
+  },
+  "2575": {
+    "buttons": [],
+    "id": "2575",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4744\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/23470\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Benin",
+    "team2": "Central African Republic",
+    "updatedAt": 1793988883884
+  },
+  "2576": {
+    "buttons": [],
+    "id": "2576",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4739\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4734\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Senegal",
+    "team2": "Sudan",
+    "updatedAt": 1793988883884
+  },
+  "2577": {
+    "buttons": [],
+    "id": "2577",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4751\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4832\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Cameroon",
+    "team2": "Namibia",
+    "updatedAt": 1793988883884
+  },
+  "2578": {
+    "buttons": [],
+    "id": "2578",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4720\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4750\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "19:00",
+    "sportCategory": "Football",
+    "team1": "Zambia",
+    "team2": "Burundi",
+    "updatedAt": 1793988883884
+  },
+  "2579": {
+    "buttons": [],
+    "id": "2579",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4783\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8036\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "19:00",
+    "sportCategory": "Football",
+    "team1": "Mozambique",
+    "team2": "Ethiopia",
+    "updatedAt": 1793988883884
+  },
+  "2580": {
+    "buttons": [],
+    "id": "2580",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/23494\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8040\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "19:00",
+    "sportCategory": "Football",
+    "team1": "Comoros",
+    "team2": "Congo",
+    "updatedAt": 1793988883884
+  },
+  "2581": {
+    "buttons": [],
+    "id": "2581",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4749\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4779\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Burkina Faso",
+    "team2": "Mauritania",
+    "updatedAt": 1793988883884
+  },
+  "2582": {
+    "buttons": [],
+    "id": "2582",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4761\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8033\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Gabon",
+    "team2": "Lesotho",
+    "updatedAt": 1793988883884
+  },
+  "2583": {
+    "buttons": [],
+    "id": "2583",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4736\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4773\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "South Africa",
+    "team2": "Kenya",
+    "updatedAt": 1793988883884
+  },
+  "2584": {
+    "buttons": [],
+    "id": "2584",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/8032\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4719\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Equatorial Guinea",
+    "team2": "Zimbabwe",
+    "updatedAt": 1793988883884
+  },
+  "2585": {
+    "buttons": [],
+    "id": "2585",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4729\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4775\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Tunisia",
+    "team2": "Libya",
+    "updatedAt": 1793988883884
+  },
+  "2586": {
+    "buttons": [],
+    "id": "2586",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4753\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8034\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Cape Verde",
+    "team2": "Liberia",
+    "updatedAt": 1793988883884
+  },
+  "2587": {
+    "buttons": [],
+    "id": "2587",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4785\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4835\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Nigeria",
+    "team2": "Tanzania",
+    "updatedAt": 1793988883884
+  },
+  "2588": {
+    "buttons": [],
+    "id": "2588",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4713\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4715\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "England",
+    "team2": "Croatia",
+    "updatedAt": 1793988883884
+  },
+  "2589": {
+    "buttons": [],
+    "id": "2589",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4714\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4698\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Czechia",
+    "team2": "Spain",
+    "updatedAt": 1793988883884
+  },
+  "2590": {
+    "buttons": [],
+    "id": "2590",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4707\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4481\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Italy",
+    "team2": "France",
+    "updatedAt": 1793988883884
+  },
+  "2591": {
+    "buttons": [],
+    "id": "2591",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4833\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4743\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "San Marino",
+    "team2": "Belarus",
+    "updatedAt": 1793988883884
+  },
+  "2592": {
+    "buttons": [],
+    "id": "2592",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4690\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4712\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Albania",
+    "team2": "Finland",
+    "updatedAt": 1793988883884
+  },
+  "2593": {
+    "buttons": [],
+    "id": "2593",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/7139\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4706\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Montenegro",
+    "team2": "Latvia",
+    "updatedAt": 1793988883884
+  },
+  "2594": {
+    "buttons": [],
+    "id": "2594",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4782\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4772\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Moldova",
+    "team2": "Kazakhstan",
+    "updatedAt": 1793988883884
+  },
+  "2595": {
+    "buttons": [],
+    "id": "2595",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4738\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4789\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "18:00",
+    "sportCategory": "Football",
+    "team1": "Singapore",
+    "team2": "Paraguay",
+    "updatedAt": 1793988883884
+  },
+  "2596": {
+    "buttons": [],
+    "id": "2596",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5092",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v7\/Competitors\/5090",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "20:00",
+    "sportCategory": "Football",
+    "team1": "Kuwait",
+    "team2": "Syria",
+    "updatedAt": 1793988883884
+  },
+  "2597": {
+    "buttons": [],
+    "id": "2597",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5087",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/2383",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "20:30",
+    "sportCategory": "Football",
+    "team1": "Saudi Arabia",
+    "team2": "South Korea",
+    "updatedAt": 1793988883884
+  },
+  "2598": {
+    "buttons": [],
+    "id": "2598",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5079",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/2380",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "20:45",
+    "sportCategory": "Football",
+    "team1": "Qatar",
+    "team2": "Australia",
+    "updatedAt": 1793988883884
+  },
+  "2599": {
+    "buttons": [],
+    "id": "2599",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5089",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v4\/Competitors\/2390",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "UAE",
+    "team2": "Honduras",
+    "updatedAt": 1793988883884
+  },
+  "2600": {
+    "buttons": [],
+    "id": "2600",
+    "league": "Football | Copa del Rey",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/329\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/24352\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2816\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "00:00",
+    "sportCategory": "Football",
+    "team1": "Navalcarnero",
+    "team2": "Real Betis",
+    "updatedAt": 1793988883884
+  },
+  "2601": {
+    "buttons": [],
+    "id": "2601",
+    "league": "Football | Copa del Rey",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/329\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/293881\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2849\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "00:00",
+    "sportCategory": "Football",
+    "team1": "Tarancón",
+    "team2": "Levante",
+    "updatedAt": 1793988883884
+  },
+  "2602": {
+    "buttons": [],
+    "id": "2602",
+    "league": "Cricket | NZ vs IND - 4th ODI",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/team\/287712\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187755\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187765\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "08:00",
+    "sportCategory": "Cricket",
+    "team1": "New Zealand",
+    "team2": "India",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2603": {
+    "buttons": [],
+    "id": "2603",
+    "league": "Cricket | AUS vs ENG - 1st ODI",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/team\/287712\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187746\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187757\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "09:30",
+    "sportCategory": "Cricket",
+    "team1": "Australia",
+    "team2": "England",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2604": {
+    "buttons": [],
+    "id": "2604",
+    "league": "Cricket | PAK vs SL - 1st Test, Day 5",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187754\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187756\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "10:30",
+    "sportCategory": "Cricket",
+    "team1": "Pakistan",
+    "team2": "Sri Lanka",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2605": {
+    "buttons": [],
+    "id": "2605",
+    "league": "Cricket | AFG vs ZIM - 2nd Test, Day 1",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187575\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187745\/image",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "12:00",
+    "sportCategory": "Cricket",
+    "team1": "Afghanistan",
+    "team2": "Zimbabwe",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2606": {
+    "buttons": [],
+    "id": "2606",
+    "league": "Cricket | NPL 2026 - 24th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/PT.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/ZY.png",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "12:45",
+    "sportCategory": "Cricket",
+    "team1": "Kathmandu Gorkhas",
+    "team2": "Sudur Paschim Royals",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2607": {
+    "buttons": [],
+    "id": "2607",
+    "league": "Cricket | NPL 2026 - 25th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/ZV.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PV.png",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "17:15",
+    "sportCategory": "Cricket",
+    "team1": "Chitwan Rhinos",
+    "team2": "Janakpur Bolts",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2608": {
+    "buttons": [],
+    "id": "2608",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4758\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8043\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Egypt",
+    "team2": "Malawi",
+    "updatedAt": 1793988883884
+  },
+  "2609": {
+    "buttons": [],
+    "id": "2609",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4831\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8037\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Mali",
+    "team2": "Rwanda",
+    "updatedAt": 1793988883884
+  },
+  "2610": {
+    "buttons": [],
+    "id": "2610",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4778\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/8031\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "02:00",
+    "sportCategory": "Football",
+    "team1": "Morocco",
+    "team2": "Niger",
+    "updatedAt": 1793988883884
+  },
+  "2611": {
+    "buttons": [],
+    "id": "2611",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4726\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4747\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Uganda",
+    "team2": "Botswana",
+    "updatedAt": 1793988883884
+  },
+  "2612": {
+    "buttons": [],
+    "id": "2612",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/62\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/59\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Wycombe",
+    "team2": "Huddersfield",
+    "updatedAt": 1793988883884
+  },
+  "2613": {
+    "buttons": [],
+    "id": "2613",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/49\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/23\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Wigan",
+    "team2": "Barnsley",
+    "updatedAt": 1793988883884
+  },
+  "2614": {
+    "buttons": [],
+    "id": "2614",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/10\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/28\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Stockport",
+    "team2": "Reading",
+    "updatedAt": 1793988883884
+  },
+  "2615": {
+    "buttons": [],
+    "id": "2615",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/133\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/70\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Stevenage",
+    "team2": "Mansfield",
+    "updatedAt": 1793988883884
+  },
+  "2616": {
+    "buttons": [],
+    "id": "2616",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/12\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/79\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Sheffield Wed",
+    "team2": "Plymouth",
+    "updatedAt": 1793988883884
+  },
+  "2617": {
+    "buttons": [],
+    "id": "2617",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/134\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "MK Dons",
+    "team2": "Burton",
+    "updatedAt": 1793988883884
+  },
+  "2618": {
+    "buttons": [],
+    "id": "2618",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/84\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/83\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "Doncaster",
+    "team2": "Leyton Orient",
+    "updatedAt": 1793988883884
+  },
+  "2619": {
+    "buttons": [],
+    "id": "2619",
+    "league": "Football | League One",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png\/v2\/Competitions\/light\/2",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/71\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/67\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:00",
+    "sportCategory": "Football",
+    "team1": "AFC Wimbledon",
+    "team2": "Blackpool",
+    "updatedAt": 1793988883884
+  },
+  "2620": {
+    "buttons": [],
+    "id": "2620",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4484\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4699\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Slovenia",
+    "team2": "Switzerland",
+    "updatedAt": 1793988883884
+  },
+  "2621": {
+    "buttons": [],
+    "id": "2621",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4695\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4777\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Scotland",
+    "team2": "North Macedonia",
+    "updatedAt": 1793988883884
+  },
+  "2622": {
+    "buttons": [],
+    "id": "2622",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4830\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4742\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Liechtenstein",
+    "team2": "Azerbaijan",
+    "updatedAt": 1793988883884
+  },
+  "2623": {
+    "buttons": [],
+    "id": "2623",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/6355\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4711\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Serbia",
+    "team2": "Germany",
+    "updatedAt": 1793988883884
+  },
+  "2624": {
+    "buttons": [],
+    "id": "2624",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4705\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4710\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Netherlands",
+    "team2": "Greece",
+    "updatedAt": 1793988883884
+  },
+  "2625": {
+    "buttons": [],
+    "id": "2625",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4716\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4708\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Bulgaria",
+    "team2": "Iceland",
+    "updatedAt": 1793988883884
+  },
+  "2626": {
+    "buttons": [],
+    "id": "2626",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4697\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4760\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Slovakia",
+    "team2": "Faroe Islands",
+    "updatedAt": 1793988883884
+  },
+  "2627": {
+    "buttons": [],
+    "id": "2627",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4818\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/129264\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Andorra",
+    "team2": "Gibraltar",
+    "updatedAt": 1793988883884
+  },
+  "2628": {
+    "buttons": [],
+    "id": "2628",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4478\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4759\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Luxembourg",
+    "team2": "Estonia",
+    "updatedAt": 1793988883884
+  },
+  "2629": {
+    "buttons": [],
+    "id": "2629",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/154426\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4480\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "20:00",
+    "sportCategory": "Football",
+    "team1": "Kosovo",
+    "team2": "Israel",
+    "updatedAt": 1793988883884
+  },
+  "2630": {
+    "buttons": [],
+    "id": "2630",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4763\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4709\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Georgia",
+    "team2": "Hungary",
+    "updatedAt": 1793988883884
+  },
+  "2631": {
+    "buttons": [],
+    "id": "2631",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4475\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4702\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Norway",
+    "team2": "Wales",
+    "updatedAt": 1793988883884
+  },
+  "2632": {
+    "buttons": [],
+    "id": "2632",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4819\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4725\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "05:00",
+    "sportCategory": "Football",
+    "team1": "Argentina",
+    "team2": "Uruguay",
+    "updatedAt": 1793988883884
+  },
+  "2633": {
+    "buttons": [],
+    "id": "2633",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4820\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4754\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "06:00",
+    "sportCategory": "Football",
+    "team1": "Colombia",
+    "team2": "Chile",
+    "updatedAt": 1793988883884
+  },
+  "2634": {
+    "buttons": [],
+    "id": "2634",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4757\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4756\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "06:00",
+    "sportCategory": "Football",
+    "team1": "Ecuador",
+    "team2": "Costa Rica",
+    "updatedAt": 1793988883884
+  },
+  "2635": {
+    "buttons": [],
+    "id": "2635",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4790\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4746\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "07:00",
+    "sportCategory": "Football",
+    "team1": "Peru",
+    "team2": "Bolivia",
+    "updatedAt": 1793988883884
+  },
+  "2636": {
+    "buttons": [],
+    "id": "2636",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/5161\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4721\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "12:00",
+    "sportCategory": "Football",
+    "team1": "Bahrain",
+    "team2": "Yemen",
+    "updatedAt": 1793988883884
+  },
+  "2637": {
+    "buttons": [],
+    "id": "2637",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4770\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4748\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "16:15",
+    "sportCategory": "Football",
+    "team1": "Japan",
+    "team2": "Brazil",
+    "updatedAt": 1793988883884
+  },
+  "2638": {
+    "buttons": [],
+    "id": "2638",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4730\/image",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/8581",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "18:00",
+    "sportCategory": "Football",
+    "team1": "Thailand",
+    "team2": "Tajikistan",
+    "updatedAt": 1793988883884
+  },
+  "2639": {
+    "buttons": [],
+    "id": "2639",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4755\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/6912\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "18:00",
+    "sportCategory": "Football",
+    "team1": "China",
+    "team2": "Malaysia",
+    "updatedAt": 1793988883884
+  },
+  "2640": {
+    "buttons": [],
+    "id": "2640",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/8509",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/11295",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "18:00",
+    "sportCategory": "Football",
+    "team1": "Chinese Taipei",
+    "team2": "Kyrgyzstan",
+    "updatedAt": 1793988883884
+  },
+  "2641": {
+    "buttons": [],
+    "id": "2641",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5079",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/2380",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:45",
+    "sportCategory": "Football",
+    "team1": "Qatar",
+    "team2": "Australia",
+    "updatedAt": 1793988883884
+  },
+  "2642": {
+    "buttons": [],
+    "id": "2642",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v2\/Competitors\/18361",
+    "logo2": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png\/v3\/Competitors\/5091",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "22:00",
+    "sportCategory": "Football",
+    "team1": "Palestine",
+    "team2": "Iran",
+    "updatedAt": 1793988883884
+  },
+  "2643": {
+    "buttons": [],
+    "id": "2643",
+    "league": "Football | Copa del Rey",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/329\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/263916\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2821\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "02:00",
+    "sportCategory": "Football",
+    "team1": "Salamanca UDS",
+    "team2": "RC Celta",
+    "updatedAt": 1793988883884
+  },
+  "2644": {
+    "buttons": [],
+    "id": "2644",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2845\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2854\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "01:30",
+    "sportCategory": "Football",
+    "team1": "Leganés",
+    "team2": "Burgos",
+    "updatedAt": 1793988883884
+  },
+  "2645": {
+    "buttons": [],
+    "id": "2645",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2831\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/5067\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "19:00",
+    "sportCategory": "Football",
+    "team1": "Valladolid",
+    "team2": "Castellon",
+    "updatedAt": 1793988883884
+  },
+  "2646": {
+    "buttons": [],
+    "id": "2646",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/24360\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2852\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "21:15",
+    "sportCategory": "Football",
+    "team1": "Real Sociedad B",
+    "team2": "Sporting Gijon",
+    "updatedAt": 1793988883884
+  },
+  "2647": {
+    "buttons": [],
+    "id": "2647",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2858\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/324871\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Almeria",
+    "team2": "Andorra",
+    "updatedAt": 1793988883884
+  },
+  "2648": {
+    "buttons": [],
+    "id": "2648",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2826\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2850\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Mallorca",
+    "team2": "Cordoba",
+    "updatedAt": 1793988883884
+  },
+  "2649": {
+    "buttons": [],
+    "id": "2649",
+    "league": "Cricket | Womens Big Bash League 2026 - 21st Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274885\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274884\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "10:40 AM",
+    "sportCategory": "Cricket",
+    "team1": "Hobart Hurricanes Women",
+    "team2": "Brisbane Heat Women",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2650": {
+    "buttons": [],
+    "id": "2650",
+    "league": "Cricket | Womens Big Bash League 2026 - 22nd Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274890\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274888\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "2:10 PM",
+    "sportCategory": "Cricket",
+    "team1": "Perth Scorchers Women",
+    "team2": "Adelaide Strikers Women",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2651": {
+    "buttons": [],
+    "id": "2651",
+    "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 2",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187575\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187745\/image",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "12:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Afghanistan",
+    "team2": "Zimbabwe",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2652": {
+    "buttons": [],
+    "id": "2652",
+    "league": "Cricket | Nepal Premier League 2026 - 26th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/PU.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PS.png",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "5:15 PM",
+    "sportCategory": "Cricket",
+    "team1": "Biratnagar Kings",
+    "team2": "Lumbini Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2653": {
+    "buttons": [],
+    "id": "2653",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4691\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4836\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Algeria",
+    "team2": "Togo",
+    "updatedAt": 1793988883884
+  },
+  "2654": {
+    "buttons": [],
+    "id": "2654",
+    "league": "Football | Africa Cup of Nations Qualification",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:44.png\/v2\/Competitions\/light\/588",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4692\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/88508\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Angola",
+    "team2": "South Sudan",
+    "updatedAt": 1793988883884
+  },
+  "2655": {
+    "buttons": [],
+    "id": "2655",
+    "league": "Football | Brasileirão Série A",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png\/v11\/Competitions\/light\/113",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/21982\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/1977\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "03:30",
+    "sportCategory": "Football",
+    "team1": "Mirassol",
+    "team2": "Atlético Mineiro",
+    "updatedAt": 1793988883884
+  },
+  "2656": {
+    "buttons": [],
+    "id": "2656",
+    "league": "Football | Brasileirão Série A",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png\/v11\/Competitions\/light\/113",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/21845\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/1974\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "05:30",
+    "sportCategory": "Football",
+    "team1": "Chapecoense",
+    "team2": "Vasco",
+    "updatedAt": 1793988883884
+  },
+  "2657": {
+    "buttons": [],
+    "id": "2657",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4688\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4479\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Sweden",
+    "team2": "Bosnia & Herzegovina",
+    "updatedAt": 1793988883884
+  },
+  "2658": {
+    "buttons": [],
+    "id": "2658",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4477\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4703\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Romania",
+    "team2": "Poland",
+    "updatedAt": 1793988883884
+  },
+  "2659": {
+    "buttons": [],
+    "id": "2659",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4718\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4693\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Austria",
+    "team2": "Ireland",
+    "updatedAt": 1793988883884
+  },
+  "2660": {
+    "buttons": [],
+    "id": "2660",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4786\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4701\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "N. Ireland",
+    "team2": "Ukraine",
+    "updatedAt": 1793988883884
+  },
+  "2661": {
+    "buttons": [],
+    "id": "2661",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4704\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4476\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:45",
+    "sportCategory": "Football",
+    "team1": "Portugal",
+    "team2": "Denmark",
+    "updatedAt": 1793988883884
+  },
+  "2662": {
+    "buttons": [],
+    "id": "2662",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4482\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/7139\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "20:00",
+    "sportCategory": "Football",
+    "team1": "Cyprus",
+    "team2": "Montenegro",
+    "updatedAt": 1793988883884
+  },
+  "2663": {
+    "buttons": [],
+    "id": "2663",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4706\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4740\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "20:00",
+    "sportCategory": "Football",
+    "team1": "Latvia",
+    "team2": "Armenia",
+    "updatedAt": 1793988883884
+  },
+  "2664": {
+    "buttons": [],
+    "id": "2664",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4712\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4833\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Finland",
+    "team2": "San Marino",
+    "updatedAt": 1793988883884
+  },
+  "2665": {
+    "buttons": [],
+    "id": "2665",
+    "league": "Football | UEFA Nations League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png\/v2\/Competitions\/light\/7016",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4743\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4690\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "23:00",
+    "sportCategory": "Football",
+    "team1": "Belarus",
+    "team2": "Albania",
+    "updatedAt": 1793988883884
+  },
+  "2666": {
+    "buttons": [],
+    "id": "2666",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/51499\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4722\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "01:00",
+    "sportCategory": "Football",
+    "team1": "Basque Country",
+    "team2": "Venezuela",
+    "updatedAt": 1793988883884
+  },
+  "2667": {
+    "buttons": [],
+    "id": "2667",
+    "league": "Football | Friendly International",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:54.png\/v4\/Competitions\/light\/570",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/4784\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4828\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "09:00",
+    "sportCategory": "Football",
+    "team1": "New Zealand",
+    "team2": "India",
+    "updatedAt": 1793988883884
+  },
+  "2668": {
+    "buttons": [],
+    "id": "2668",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2851\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/24264\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "02:00",
+    "sportCategory": "Football",
+    "team1": "Real Oviedo",
+    "team2": "Girona",
+    "updatedAt": 1793988883884
+  },
+  "2669": {
+    "buttons": [],
+    "id": "2669",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2822\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2869\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "19:00",
+    "sportCategory": "Football",
+    "team1": "Tenerife",
+    "team2": "AD Ceuta",
+    "updatedAt": 1793988883884
+  },
+  "2670": {
+    "buttons": [],
+    "id": "2670",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/33779\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/6577\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "21:15",
+    "sportCategory": "Football",
+    "team1": "Granada",
+    "team2": "Las Palmas",
+    "updatedAt": 1793988883884
+  },
+  "2671": {
+    "buttons": [],
+    "id": "2671",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/2839\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/4488\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Eibar",
+    "team2": "Cadiz",
+    "updatedAt": 1793988883884
+  },
+  "2672": {
+    "buttons": [],
+    "id": "2672",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/47321\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/24335\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "CD Eldense",
+    "team2": "Sabadell",
+    "updatedAt": 1793988883884
+  },
+  "2673": {
+    "buttons": [],
+    "id": "2673",
+    "league": "Cricket | Womens Big Bash League 2026",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274883\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274887\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "6:00 AM",
+    "sportCategory": "Cricket",
+    "team1": "Sydney Sixers Women",
+    "team2": "Melbourne Renegades Women",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2674": {
+    "buttons": [],
+    "id": "2674",
+    "league": "Cricket | India tour of New Zealand 2026 - 5th ODI",
+    "leagueLogo": "",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187755\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187765\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "8:00 AM",
+    "sportCategory": "Cricket",
+    "team1": "New Zealand",
+    "team2": "India",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2675": {
+    "buttons": [],
+    "id": "2675",
+    "league": "Cricket | England tour of Australia, 2026 - 2nd ODI",
+    "leagueLogo": "",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187746\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187757\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "9:30 AM",
+    "sportCategory": "Cricket",
+    "team1": "Australia",
+    "team2": "England",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2676": {
+    "buttons": [],
+    "id": "2676",
+    "league": "Cricket | Afghanistan vs Zimbabwe in UAE, 2026 - 2nd Test, Day 3",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187575\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187745\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "12:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Afghanistan",
+    "team2": "Zimbabwe",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2677": {
+    "buttons": [],
+    "id": "2677",
+    "league": "Cricket | Nepal Premier League 2026 - 27th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/ZV.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/ZW.png",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "12:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Chitwan Rhinos",
+    "team2": "Karnali Yaks",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2678": {
+    "buttons": [],
+    "id": "2678",
+    "league": "Cricket | Nepal Premier League 2026 - 28th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/PT.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PW.png",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "5:15 PM",
+    "sportCategory": "Cricket",
+    "team1": "Kathmandu Gorkhas",
+    "team2": "Pokhara Avengers",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2679": {
+    "buttons": [],
+    "id": "2679",
+    "league": "Cricket | Bangladesh tour of South Africa, 2026 - 1st Test, Day 1",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187747\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187744\/image",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "2:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "South Africa",
+    "team2": "Bangladesh",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2680": {
+    "buttons": [],
+    "id": "2680",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 1st Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "3:30 PM",
+    "sportCategory": "Cricket",
+    "team1": "UAE Bulls",
+    "team2": "Yas Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2681": {
+    "buttons": [],
+    "id": "2681",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 2nd Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Royal Desert Champions",
+    "team2": "Emirates Eagles",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2682": {
+    "buttons": [],
+    "id": "2682",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 3rd Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "United Tigers",
+    "team2": "Arabian Aces",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2683": {
+    "buttons": [],
+    "id": "2683",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 4th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "matchDate": "08\/11\/2026",
+    "matchTime": "3:30 PM",
+    "sportCategory": "Cricket",
+    "team1": "Yas Lions",
+    "team2": "Emirates Eagles",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2684": {
+    "buttons": [],
+    "id": "2684",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 5th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "matchDate": "08\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "United Tigers",
+    "team2": "UAE Bulls",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2685": {
+    "buttons": [],
+    "id": "2685",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 6th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "matchDate": "08\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Arabian Aces",
+    "team2": "Royal Desert Champions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2686": {
+    "buttons": [],
+    "id": "2686",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 7th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "matchDate": "09\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Emirates Eagles",
+    "team2": "Arabian Aces",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2687": {
+    "buttons": [],
+    "id": "2687",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 8th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "matchDate": "09\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "United Tigers",
+    "team2": "Royal Desert Champions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2688": {
+    "buttons": [],
+    "id": "2688",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 9th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "matchDate": "10\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Yas Lions",
+    "team2": "United Tigers",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2689": {
+    "buttons": [],
+    "id": "2689",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 10th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "matchDate": "10\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "UAE Bulls",
+    "team2": "Emirates Eagles",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2690": {
+    "buttons": [],
+    "id": "2690",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 11th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "matchDate": "11\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Royal Desert Champions",
+    "team2": "UAE Bulls",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2691": {
+    "buttons": [],
+    "id": "2691",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 12th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "matchDate": "11\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Arabian Aces",
+    "team2": "Yas Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2692": {
+    "buttons": [],
+    "id": "2692",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 13th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "3:30 PM",
+    "sportCategory": "Cricket",
+    "team1": "United Tigers",
+    "team2": "Emirates Eagles",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2693": {
+    "buttons": [],
+    "id": "2693",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 14th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Royal Desert Champions",
+    "team2": "Yas Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2694": {
+    "buttons": [],
+    "id": "2694",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 15th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "matchDate": "13\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Arabian Aces",
+    "team2": "UAE Bulls",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2695": {
+    "buttons": [],
+    "id": "2695",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 16th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "3:30 PM",
+    "sportCategory": "Cricket",
+    "team1": "Royal Desert Champions",
+    "team2": "United Tigers",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2696": {
+    "buttons": [],
+    "id": "2696",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 17th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Arabian Aces",
+    "team2": "Emirates Eagles",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2697": {
+    "buttons": [],
+    "id": "2697",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 18th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "matchDate": "14\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "Yas Lions",
+    "team2": "UAE Bulls",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2698": {
+    "buttons": [],
+    "id": "2698",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 19th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LL.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LI.png",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "3:30 PM",
+    "sportCategory": "Cricket",
+    "team1": "Royal Desert Champions",
+    "team2": "Arabian Aces",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2699": {
+    "buttons": [],
+    "id": "2699",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 20th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LK.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/78.png",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "5:45 PM",
+    "sportCategory": "Cricket",
+    "team1": "Emirates Eagles",
+    "team2": "UAE Bulls",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2700": {
+    "buttons": [],
+    "id": "2700",
+    "league": "Cricket | Abu Dhabi T10 League 2026 - 21st Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/18292\/image",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LJ.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/1LH.png",
+    "matchDate": "15\/11\/2026",
+    "matchTime": "8:00 PM",
+    "sportCategory": "Cricket",
+    "team1": "United Tigers",
+    "team2": "Yas Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2701": {
+    "buttons": [],
+    "id": "2701",
+    "league": "Cricket | NPL 2026 - 18th Match",
+    "leagueLogo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
+    "logo1": "https:\/\/cricketvectors.akamaized.net\/Teams\/PT.png",
+    "logo2": "https:\/\/cricketvectors.akamaized.net\/Teams\/PS.png",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "5:15 PM",
+    "sportCategory": "Cricket",
+    "team1": "Kathmandu Gurkhas",
+    "team2": "Lumbini Lions",
+    "updatedAt": 1793988883884,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2328": {
+    "buttons": [],
+    "id": "2328",
+    "league": "Football | Saudi League",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png\/v9\/Competitions\/light\/649",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/34315\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/530631\/image",
+    "matchDate": "06\/11\/2026",
+    "matchTime": "23:30",
+    "sportCategory": "Football",
+    "team1": "Al Ittihad",
+    "team2": "NEOM SC",
+    "updatedAt": 1793859322588
   },
   "2334": {
     "buttons": [],
