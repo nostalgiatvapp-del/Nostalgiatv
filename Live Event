@@ -234,14 +234,15 @@
     "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
     "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274886\/image",
     "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274883\/image",
-    "matchDate": "06\/11\/2026",
+    "matchDate": "07\/11\/2026",
     "matchTime": "2:10 PM",
     "sportCategory": "Cricket",
     "team1": "Melbourne Stars Women",
     "team2": "Sydney Sixers Women",
-    "updatedAt": 1793859322588,
+    "updatedAt": 1793969541696,
     "hotMatch": "no",
-    "matchFormat": ""
+    "matchFormat": "",
+    "alwaysLive": "no"
   },
   "2335": {
     "buttons": [],
