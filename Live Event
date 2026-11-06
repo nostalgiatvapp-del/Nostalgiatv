@@ -80,7 +80,7 @@
     "matchTime": "23:30",
     "sportCategory": "Football",
     "team1": "Dresden",
-    "team2": "Greuther F?rth",
+    "team2": "Greuther Fürth",
     "updatedAt": 1793859322588
   },
   "2328": {
@@ -98,7 +98,88 @@
     "updatedAt": 1793859322588
   },
   "2331": {
-    "buttons": [],
+    "buttons": [
+      {
+        "name": "Server - 1",
+        "url": "https:\/\/live2.jorvakstreamcache.com\/live\/channel2.m3u8",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "Server - 2",
+        "url": "https:\/\/pull.niur.live\/live\/stream-459401_lhd.m3u8?txSecret=66ec54cd969d78534c7b485d577e67d7&txTime=6aee071f",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "Server - 3",
+        "url": "https:\/\/pull.niues.live\/live\/stream-620797_lhd.m3u8?auth_key=1793966287-0-0-eccd76e8f764d4cff5f943089b4f76f5",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "Server - 4",
+        "url": "https:\/\/live2.jorvakstreamcache.com\/live\/channel2.flv",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "Server - 5",
+        "url": "https:\/\/live2.domaincdn.cc\/livecdn\/channel-2.flv?auth_key=3000001793982218-0-0-a17af8bb8bbcabb7e0c9c9952ee29ccb",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      }
+    ],
     "id": "2331",
     "league": "Football | Super Lig",
     "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png\/v4\/Competitions\/light\/78",
@@ -109,29 +190,80 @@
     "sportCategory": "Football",
     "team1": "Gaziantep FK",
     "team2": "Kasimpasa",
-    "updatedAt": 1793859322588
-  },
-  "2334": {
-    "buttons": [],
-    "id": "2334",
-    "league": "Cricket | WBBL 2026 - 12th Match",
-    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
-    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274886\/image",
-    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274883\/image",
-    "matchDate": "07\/11\/2026",
-    "matchTime": "2:10 PM",
-    "sportCategory": "Cricket",
-    "team1": "Melbourne Stars Women",
-    "team2": "Sydney Sixers Women",
-    "updatedAt": 1793969541696,
+    "updatedAt": 1793984948789,
     "hotMatch": "no",
-    "matchFormat": "",
     "alwaysLive": "no"
+  },
+  "2332": {
+    "alwaysLive": "no",
+    "buttons": [
+      {
+        "name": "fancode - Aq",
+        "url": "https:\/\/otte.live.fly.ww.aiv-cdn.net\/iad-nitro\/live\/clients\/dash-sd\/enc\/eayjamsonn\/out\/v1\/6c25cddab58043a6ace0ac64d97983f0\/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "Tapmad - (bd)",
+        "url": "https:\/\/tencent-cdn.tapmad.com\/v1\/01a14abbcff31ea540a81c2b41b760\/01a14abc06421567ee931e109fa577\/main.m3u8",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "https:\/\/www.tapmad.com",
+          "Referer": "https:\/\/www.tapmad.com\/",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      },
+      {
+        "name": "t sports hd",
+        "url": "http:\/\/103.114.11.37:8081\/T-Sports-FHD\/index.m3u8?token=sboxcast",
+        "headers": {
+          "Accept": "*\/*",
+          "Accept-Encoding": "gzip, deflate, br, zstd",
+          "Accept-Language": "en-US,en;q=0.9",
+          "Connection": "keep-alive",
+          "Cookie": "",
+          "Origin": "",
+          "Referer": "",
+          "User-Agent": "Mozilla\/5.0 (Linux; Android 10; SM-G975F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/119.0.0.0 Mobile Safari\/537.36"
+        },
+        "drmScheme": "widevine",
+        "drmLicenseUrl": ""
+      }
+    ],
+    "hotMatch": "no",
+    "id": "2332",
+    "league": "Cricket | BAN vs WI - 2nd Test, Day 3",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187744\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187760\/image",
+    "matchDate": "07\/11\/2026",
+    "matchFormat": "Test",
+    "matchTime": "9:30 AM",
+    "sportCategory": "Cricket",
+    "team1": "Bangladesh",
+    "team2": "West Indies",
+    "updatedAt": 1793962449069
   },
   "2335": {
     "buttons": [],
     "id": "2335",
-    "league": "Football | Brasileir?o S?rie A",
+    "league": "Football | Brasileirão Série A",
     "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png\/v11\/Competitions\/light\/113",
     "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/1962\/image",
     "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/1961\/image",
@@ -852,7 +984,7 @@
     "matchDate": "07\/11\/2026",
     "matchTime": "18:00",
     "sportCategory": "Football",
-    "team1": "Osnabr?ck",
+    "team1": "Osnabrück",
     "team2": "Kaiserslautern",
     "updatedAt": 1793859322588
   },
@@ -992,7 +1124,7 @@
     "matchDate": "07\/11\/2026",
     "matchTime": "02:45",
     "sportCategory": "Football",
-    "team1": "Famalic?o",
+    "team1": "Famalicão",
     "team2": "Arouca",
     "updatedAt": 1793859322588
   },
@@ -1108,20 +1240,6 @@
     "team2": "Ath. Bilbao",
     "updatedAt": 1793859322588
   },
-  "2405": {
-    "buttons": [],
-    "id": "2405",
-    "league": "Football | LaLiga 2",
-    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
-    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/5067\/image",
-    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2839\/image",
-    "matchDate": "07\/11\/2026",
-    "matchTime": "01:30",
-    "sportCategory": "Football",
-    "team1": "Castellon",
-    "team2": "Eibar",
-    "updatedAt": 1793859322588
-  },
   "2406": {
     "buttons": [],
     "id": "2406",
@@ -1174,7 +1292,7 @@
     "matchDate": "07\/11\/2026",
     "matchTime": "23:30",
     "sportCategory": "Football",
-    "team1": "Legan?s",
+    "team1": "Leganés",
     "team2": "Albacete",
     "updatedAt": 1793859322588
   },
@@ -1231,7 +1349,7 @@
     "matchTime": "22:00",
     "sportCategory": "Football",
     "team1": "Goztepe",
-    "team2": "?stanbul Ba?ak?ehir",
+    "team2": "İstanbul Başakşehir",
     "updatedAt": 1793859322588
   },
   "2414": {
@@ -1246,22 +1364,6 @@
     "sportCategory": "Cricket",
     "team1": "New Zealand",
     "team2": "India",
-    "updatedAt": 1793859322588,
-    "hotMatch": "no",
-    "matchFormat": ""
-  },
-  "2415": {
-    "buttons": [],
-    "id": "2415",
-    "league": "Cricket | BAN vs WI - 2nd Test, Day 3",
-    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
-    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187744\/image",
-    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187760\/image",
-    "matchDate": "07\/11\/2026",
-    "matchTime": "09:30",
-    "sportCategory": "Cricket",
-    "team1": "Bangladesh",
-    "team2": "West Indies",
     "updatedAt": 1793859322588,
     "hotMatch": "no",
     "matchFormat": ""
@@ -1354,7 +1456,7 @@
     "matchTime": "02:30",
     "sportCategory": "Football",
     "team1": "Rosario Central",
-    "team2": "Estudiantes R?o Cuarto",
+    "team2": "Estudiantes Río Cuarto",
     "updatedAt": 1793859322588
   },
   "2422": {
@@ -1409,7 +1511,7 @@
     "matchDate": "08\/11\/2026",
     "matchTime": "03:00",
     "sportCategory": "Football",
-    "team1": "Atl?tico-MG",
+    "team1": "Atlético-MG",
     "team2": "Gremio",
     "updatedAt": 1793859322588
   },
@@ -1619,7 +1721,7 @@
     "matchDate": "08\/11\/2026",
     "matchTime": "20:30",
     "sportCategory": "Football",
-    "team1": "K?ln",
+    "team1": "Köln",
     "team2": "Leverkusen",
     "updatedAt": 1793859322588
   },
@@ -2123,7 +2225,7 @@
     "matchDate": "08\/11\/2026",
     "matchTime": "03:00",
     "sportCategory": "Football",
-    "team1": "CF Montr?al",
+    "team1": "CF Montréal",
     "team2": "Whitecaps",
     "updatedAt": 1793859322588
   },
@@ -2356,7 +2458,7 @@
     "matchDate": "09\/11\/2026",
     "matchTime": "04:30",
     "sportCategory": "Football",
-    "team1": "Central C?rdoba",
+    "team1": "Central Córdoba",
     "team2": "Lanus",
     "updatedAt": 1793859322588
   },
@@ -2440,7 +2542,7 @@
     "matchDate": "09\/11\/2026",
     "matchTime": "00:00",
     "sportCategory": "Football",
-    "team1": "Guimar?es",
+    "team1": "Guimarães",
     "team2": "Porto",
     "updatedAt": 1793859322588
   },
@@ -2584,7 +2686,7 @@
   "2508": {
     "buttons": [],
     "id": "2508",
-    "league": "Football | Divisi?n Profesional",
+    "league": "Football | División Profesional",
     "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/16736\/image",
     "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/33714\/image",
     "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/268082\/image",
@@ -2718,7 +2820,7 @@
     "matchTime": "02:00",
     "sportCategory": "Football",
     "team1": "Sp. San Lorenzo",
-    "team2": "Rubio ?u",
+    "team2": "Rubio Ñu",
     "updatedAt": 1793859322588
   },
   "2518": {
@@ -2731,7 +2833,7 @@
     "matchDate": "10\/11\/2026",
     "matchTime": "04:30",
     "sportCategory": "Football",
-    "team1": "Sportivo Luque?o",
+    "team1": "Sportivo Luqueño",
     "team2": "2 de Mayo",
     "updatedAt": 1793859322588
   },
@@ -2838,7 +2940,7 @@
     "matchTime": "05:30",
     "sportCategory": "Football",
     "team1": "Internacional de Bogota",
-    "team2": "Am?rica",
+    "team2": "América",
     "updatedAt": 1793859322588
   },
   "2526": {
@@ -2866,7 +2968,7 @@
     "matchTime": "02:00",
     "sportCategory": "Football",
     "team1": "PSG (W)",
-    "team2": "Bayern M?nchen (W)",
+    "team2": "Bayern München (W)",
     "updatedAt": 1793859322588
   },
   "2528": {
@@ -2950,7 +3052,7 @@
     "matchTime": "01:00",
     "sportCategory": "Football",
     "team1": "Mijas Las Lagunas",
-    "team2": "Real Ja?n CF",
+    "team2": "Real Jaén CF",
     "updatedAt": 1793859322588
   },
   "2534": {
@@ -3199,6 +3301,53 @@
     "sportCategory": "Cricket",
     "team1": "Team 1 (TBC)",
     "team2": "Team 2 (TBC)",
+    "updatedAt": 1793859322588,
+    "hotMatch": "no",
+    "matchFormat": ""
+  },
+  "2334": {
+    "buttons": [],
+    "id": "2334",
+    "league": "Cricket | WBBL 2026 - 12th Match",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11163\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/274886\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/274883\/image",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "2:10 PM",
+    "sportCategory": "Cricket",
+    "team1": "Melbourne Stars Women",
+    "team2": "Sydney Sixers Women",
+    "updatedAt": 1793969541696,
+    "hotMatch": "no",
+    "matchFormat": "",
+    "alwaysLive": "no"
+  },
+  "2405": {
+    "buttons": [],
+    "id": "2405",
+    "league": "Football | LaLiga 2",
+    "leagueLogo": "https:\/\/imagecache.365scores.com\/image\/upload\/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png\/v2\/Competitions\/light\/12",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/5067\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/2839\/image",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "01:30",
+    "sportCategory": "Football",
+    "team1": "Castellon",
+    "team2": "Eibar",
+    "updatedAt": 1793859322588
+  },
+  "2415": {
+    "buttons": [],
+    "id": "2415",
+    "league": "Cricket | BAN vs WI - 2nd Test, Day 3",
+    "leagueLogo": "https:\/\/img.sofascore.com\/api\/v1\/unique-tournament\/11189\/image",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187744\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187760\/image",
+    "matchDate": "07\/11\/2026",
+    "matchTime": "09:30",
+    "sportCategory": "Cricket",
+    "team1": "Bangladesh",
+    "team2": "West Indies",
     "updatedAt": 1793859322588,
     "hotMatch": "no",
     "matchFormat": ""
