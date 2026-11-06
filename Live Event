@@ -1,4 +1,21 @@
 {
+  "2555": {
+    "id": "2555",
+    "league": "Bangladesh v Australia T20Is 2026 - Men",
+    "leagueLogo": "",
+    "team1": "Bangladesh",
+    "team2": "Australia",
+    "logo1": "https:\/\/img.sofascore.com\/api\/v1\/team\/187744\/image",
+    "logo2": "https:\/\/img.sofascore.com\/api\/v1\/team\/187746\/image",
+    "matchDate": "06\/11\/2026",
+    "matchTime": "4:40 PM",
+    "sportCategory": "cricket",
+    "hotMatch": "no",
+    "alwaysLive": "no",
+    "matchFormat": "t20",
+    "buttons": [],
+    "updatedAt": 1793961666147
+  },
   "2258": {
     "buttons": [],
     "id": "2258",
